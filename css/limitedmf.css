@@ -1,0 +1,17 @@
+h1{
+  color:red;
+  align-items:center;
+  font-style:oblique;
+  font-weight:bold;
+  font-family:"Times New Roman", Georgia,
+  font-size:250%;
+  line-height:200%;
+}
+body {
+   background: #fdfdfd;
+   color: #333;
+   font-size: 1em;
+   line-height: 1.4;
+   margin: 0;
+   padding: 0;
+}
